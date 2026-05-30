@@ -1,5 +1,7 @@
 # Custom ML Classifiers From Scratch: Vectorized k-NN & SVM
 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohdAli21/Building-SVM-and-k-NN-Classifiers-from-Scratch/blob/main/Custom_KNN_and_SVM_From_Scratch.ipynb)
 A mathematically rigorous, library-free implementation of **k-Nearest Neighbors (k-NN)** and **Support Vector Machines (SVM)** built entirely from scratch in Python. By intentionally bypassing high-level packages like `scikit-learn` for model architecture, this project serves to expose and document the underlying optimization loops, high-dimensional projections, and geometric vectors that govern these algorithms.
 
 Both systems leverage **NumPy matrix broadcasting vectorization** to optimize processing speeds over dense feature grids, demonstrating production-ready performance without external optimization dependencies.
